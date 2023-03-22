@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hui Zhao's academic personal websites"
+title: "Hui Zhao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
