@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 - Yu Jinzhao, Li Daoji, Luo lin, Zhao Hui, Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs,  submitted to  Communications in Statistics - Theory and Methods.
 
 - Ge, Lei; Choi, Jaihee; Zhao,Hui; Sun,Jianguo. Regression Analysis of Mixed Panel Count Data with Dependent Observation Processes, submitted to Journal of Nonparametric Statistics.
