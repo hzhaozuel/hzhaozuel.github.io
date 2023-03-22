@@ -8,7 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Qingkai This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+赵 慧
+通讯地址：湖北武汉中南财经政法大学统计与数学学院（430073）
+E-mail:  hzhao@zuel.edu.cn
+
+2005年于北京大学数学科学学院数理统计专业获得博士学位（导师：郑忠国），现为中南财经政法大学教授，博士生导师。
+
+工作经历
+
+09/2018- 至 今 中南财经政法大学统计与数学学院，教授
+07/2014-08/2018 华中师范大学数学与统计学学院，教授
+07/2008-06/2014  华中师范大学数学与统计学学院，副教授
+09/2016-09/2017  美国密苏里大学统计学系，访问学者
+12/2014-02/2015 香港理工大学应用数学系，访问学者
+01/2011-02/2012 美国密苏里大学统计学系，博士后（合作导师：孙建国）
+04/2010-07/2010 中国科学院应用数学所，访问学者
+07/2005-06/2007 中国科学院系统科学研究所，博士后（合作导师：李国英，于丹）
+教学情况
+本科生授课：概率论基础，数理统计，多元统计分析，统计软件与分析，线性代数，概率论与数理统计等； 研究生授课：高等数理统计，生存分析与可靠性，时间序列分析，线性模型，非参数与半参数统计，现代统计模型等；先后指导硕士研究生48名，博士研究生8名。
+研究兴趣
+1) 高维数据分析
+2) 生存数据与纵向数据的统计分析
+3) 图模型与因果推断
 
 A data-driven personal website
 ======
