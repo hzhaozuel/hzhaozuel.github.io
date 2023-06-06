@@ -18,7 +18,7 @@ Academic Positions
 
 07/2008-06/2014  Associate Professor, School of Mathematics and Statistics, Central China Normal University
 
-09/2016-09/2017  美国密苏里大学统计学系，访问学者
+09/2016-09/2017  University of Missouri-Columbia，访问学者
 
 12/2014-02/2015 香港理工大学应用数学系，访问学者
 
