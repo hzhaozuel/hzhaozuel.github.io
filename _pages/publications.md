@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
 - Wu Yuxiang, Zhao Hui, Sun Jianguo (2023), Subgroup Analysis for High Dimensional Heterogeneous Effect under Survival Outcome. Submitted.
 
 - Li Daoji, Yu Jinzhao, Zhao Hui (2023). CoxKnockoff: Controlled Feature Selection for the Cox Model Using Knockoffs,  submitted to  Stat.
