@@ -8,31 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-2005年于北京大学数学科学学院数理统计专业获得博士学位（导师：郑忠国），现为中南财经政法大学教授，博士生导师。
+Ph.D. in Statistics from School of Mathematics Science, Peking University in 2005 (Supervisor：Prof. Zheng, Zhongguo).
 
 Academic Positions
 ======
-09/2018- now      Full Professor, School of Statistics and Mathematics, Zhongnan University of Economics and Law
+09/2018- now     Full Professor, School of Statistics and Mathematics, Zhongnan University of Economics and Law
 
-07/2014-08/2018   Full Professor, School of Mathematics and Statistics, Central China Normal University
+07/2014-08/2018  Full Professor, School of Mathematics and Statistics, Central China Normal University
 
 07/2008-06/2014  Associate Professor, School of Mathematics and Statistics, Central China Normal University
 
-09/2016-09/2017  University of Missouri-Columbia，访问学者
+09/2016-09/2017  Department of Statistics, University of Missouri-Columbia, Visiting Scholar
 
-12/2014-02/2015 香港理工大学应用数学系，访问学者
+12/2014-02/2015  Department of Applied Mathematics, Hong Kong Polytechnic University, Visiting Scholar
 
-01/2011-02/2012 美国密苏里大学统计学系，博士后（合作导师：孙建国）
+01/2011-02/2012  Department of Statistics, University of Missouri-Columbia, Post Doc. (Co-supervisor: Sun, Jianguo)
 
-04/2010-07/2010 中国科学院应用数学所，访问学者
+04/2010-07/2010  Institute of Applied Mathematics, Chinese Academy of Sciences, Visiting Scholar
 
-07/2005-06/2007 中国科学院系统科学研究所，博士后（合作导师：李国英，于丹）
+07/2005-06/2007  Institute of Systems Science, Chinese Academy of Sciences, Post Doc. (Co-supervisor：Li, Guoying; Yu, Dan)
 
 
-研究兴趣
+Research Interests
 ======
-1) 高维数据分析
-
-2) 生存数据与纵向数据的统计分析
-
-3) 图模型与因果推断
+High-dimensional data analysis, Survival data analysis, Recurrent event data analysis, Causal inference, Graphical model
