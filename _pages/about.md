@@ -10,13 +10,13 @@ redirect_from:
 
 2005年于北京大学数学科学学院数理统计专业获得博士学位（导师：郑忠国），现为中南财经政法大学教授，博士生导师。
 
-工作经历
+Academic Positions
 ======
-09/2018- 至 今 中南财经政法大学统计与数学学院，教授
+09/2018- now      Full Professor, School of Statistics and Mathematics, Zhongnan University of Economics and Law
 
-07/2014-08/2018 华中师范大学数学与统计学学院，教授
+07/2014-08/2018   Full Professor, School of Mathematics and Statistics, Central China Normal University
 
-07/2008-06/2014  华中师范大学数学与统计学学院，副教授
+07/2008-06/2014  Associate Professor, School of Mathematics and Statistics, Central China Normal University
 
 09/2016-09/2017  美国密苏里大学统计学系，访问学者
 
