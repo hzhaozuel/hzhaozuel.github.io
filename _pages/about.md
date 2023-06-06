@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. in Statistics from School of Mathematics Science, Peking University in 2005 (Supervisor：Prof. Zheng, Zhongguo).
+Ph.D. in Statistics from School of Mathematical Sciences, Peking University in 2005 (Supervisor：Prof. Zheng, Zhongguo).
 
 Academic Positions
 ======
