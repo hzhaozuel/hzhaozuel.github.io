@@ -91,10 +91,19 @@ author_profile: true
 
 - Hui Zhao, Ningning Jiang, (2012).  A two-stage estimation algorithm for a type of current status data. Journal of Systems Science and Complexity, 25, 556-566.
 
-- Hui Zhao, Dan Yu, (2009). A random effects generalized linear model for reliability compositive evaluation. Science in China (A), 52, 2218-2227. 
+- Hui Zhao, Dan Yu, (2009). A random effects generalized linear model for reliability compositive evaluation. Science in China (A), 52, 2218-2227.
+  
+- Hui Zhao, Zhongguo Zheng (2008). Comparing identifiability criteria for causal effects in Gaussian causal models (In Chinese). Acta Mathematica Scientia, 28,808-817.
+- Hui Zhao, Zhongguo Zheng (2007). Graphical Model and Its Application s in Statistical Modelling (In Chinese), Journal of Applied Statistics and Management, 26(3): 741-746.
+  
+- Hui Zhao, Zhongguo Zheng (2007). Causal Analysis for the Efficacy of  a Type of Chinese Medicine - Jiangzhiling Tablet (In Chinese), Journal of Applied Statistics and Management, 26(4): 427-431.
 
-- Hui Zhao, Zhongguo Zheng, Baijun Liu, (2005).  On the Markov equivalence of maximal ancestral graphs. Science in China (A),48(4),548-562.
+- Hui Zhao, Zhongguo Zheng, Jing Xu, (2006).  Causal inference in the models with hidden variables and selection bias.  Acta Scientiarum naturalium Universitatis Pekinensis(北京大学学报，自科版), 42, 584-589.(EI)
+  
+- Hui Zhao, Ming Xiao,(2005), The Application of Bagging to Hybrid Adaptive Splines (In Chinese), Chinese Journal of applied probability and statistics, 21,278-284.
 
-- Baijun Liu, Zhongguo Zheng, Hui Zhao, (2005).  An efficient algorithm for finding the largest chain graph given chain graph. Science in China (A), 48(11), 517-1530.
+- Hui Zhao, Zhongguo Zheng, Baijun Liu,(2005).  On the Markov equivalence of maximal ancestral graphs. Science in China (A),48(4),548-562.
+
+- Baijun Liu, Zhongguo Zheng, Hui Zhao,(2005).  An efficient algorithm for finding the largest chain graph given chain graph. Science in China (A), 48(11), 517-1530.
 
 - Xingwei Tong, Hengjian Cui, Hui Zhao, (2005).  Asymptotics of Huber-Dutter estimators for partial linear model with nonstochastic designs. Acta Mathematicae Applicatae Sinica, 21,257-268. 
