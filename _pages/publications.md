@@ -11,33 +11,31 @@ author_profile: true
 
 {% include base_path %}
 
-- Wu Y., Zhao H., Sun J. (2023), Subgroup Analysis for High Dimensional Heterogeneous Effect under Survival Outcome. Under preparation.
+- Li D., Yu J., Zhao H*. (2023), CoxKnockoff: Controlled Feature Selection for the Cox Model Using Knockoffs, Stat. Doi: 10.1002/sta4.607
 
-- Li D., Yu J., Zhao H*. (2023), CoxKnockoff: Controlled Feature Selection for the Cox Model Using Knockoffs, submitted to  Stat.
+- Yu J., Li D., Luo L., Zhao H*.(2023), Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs,  Communications in Statistics - Theory and Methods. DOI: 10.1080/03610926.2023.2247508
 
-- Yu J., Li D., Luo L., Zhao H*.(2023), Reproducible Learning for Accelerated Failure Time Models via Deep Knockoffs,  submitted to  Communications in Statistics - Theory and Methods.
+- Ge L., Choi J., Zhao H., Sun, J.(2023), Regression Analysis of Mixed Panel Count Data with Dependent Observation Processes, Journal of Nonparametric Statistics. Doi: 10.1080/10485252.2023.2203275
 
-- Ge L., Choi J., Zhao H., Sun, J.(2023), Regression Analysis of Mixed Panel Count Data with Dependent Observation Processes, Journal of Nonparametric Statistics. http://doi.org/10.1080/10485252.2023.2203275
+- Wu Y., Zhao H., Sun J. (2023), Group Variable Selection for Cox model with Interval-censored Failure Time Data, Biometrics. Doi: 10.1111/biom.13879
 
-- Wu Y., Zhao H., Sun J. (2023), Group Variable Selection for Cox model with Interval-censored Failure Time Data, Biometrics. http://doi.org/10.1111/biom.13879
-
-- Luo L., Yu J., Zhao H*. (2023), The sparse estimation of the semiparametric linear transformation model with dependent current status data, accepted by Journal of Applied Statistics. http://doi.org/10.1080/02664763.2022.2161488
+- Luo L., Yu J., Zhao H*. (2023), The sparse estimation of the semiparametric linear transformation model with dependent current status data, Journal of Applied Statistics. Doi: 10.1080/02664763.2022.2161488
 
 - 赵慧，刘斌霞，董庆凯，张新雨(2023). 加速失效时间模型下现状数据的Jackknife模型平均，应用数学学报，2023年5月46卷第3期：313-328.
 
-- 赵慧，董庆凯(2022). 当前状态数据的可加风险模型变量选择方法,系统科学与数学. 42(5):  1314-1329. http://doi.org/10.12341/jssms21468
+- 赵慧，董庆凯(2022). 当前状态数据的可加风险模型变量选择方法,系统科学与数学. 42(5):  1314-1329. Doi: 10.12341/jssms21468
 
 - 赵慧，于金钊(2022). 可加风险模型下现状数据的降维问题, 数理统计与管理,2023年5月42卷第3期：439-448.
 
-- Dong Q., Liu B., Zhao H*. (2022), Weighted Least Squares Model Averaging for Accelerated Failure Time Models, Computational Statistics and Data Analysis. Vol 184: 107743.  http://doi.org/10.1016/j.csda.2023.107743
+- Dong Q., Liu B., Zhao H*. (2022), Weighted Least Squares Model Averaging for Accelerated Failure Time Models, Computational Statistics and Data Analysis. Vol 184: 107743.  Doi: 10.1016/j.csda.2023.107743
 
 - Liu B., Zhao H., Wang C. (2022). Bayesian empirical likelihood of linear regression model with current status data, Communications in Statistics - Theory and Methods, Published online: 24 Mar 2022.
 
-- Luo L., Zhao H.*. (2022). A new approach to regression analysis of linear transformation model with interval-censored data, Communications in Statistics - Theory and Methods.2021年12月16日online,  https://doi.org/10.1080/03610926.2021.2012195  
+- Luo L., Zhao H.*. (2022). A new approach to regression analysis of linear transformation model with interval-censored data, Communications in Statistics - Theory and Methods.2021年12月16日online,  Doi: 10.1080/03610926.2021.2012195  
 
-- Du M., Zhao H.*, Sun J. (2021). A unified approach to variable selection for Cox’s proportional hazards model with interval-censored failure time data, Statistical Methods in Medical Research，2021, 30(8), 1833-1849. https://doi.org/10.1177/09622802211009259.
+- Du M., Zhao H.*, Sun J. (2021). A unified approach to variable selection for Cox’s proportional hazards model with interval-censored failure time data, Statistical Methods in Medical Research，2021, 30(8), 1833-1849. Doi: 10.1177/09622802211009259.
 
-- Sun D., Zhao H.*, Sun J. (2021). Regression Analysis of Asynchronous Longitudinal Data with Informative Observation Processes,  Computational Statistics & Data Analysis,157, 107161. https://doi.org/10.1016/j.csda.2020.107161.
+- Sun D., Zhao H.*, Sun J. (2021). Regression Analysis of Asynchronous Longitudinal Data with Informative Observation Processes,  Computational Statistics & Data Analysis,157, 107161. Doi: 10.1016/j.csda.2020.107161.
 
 -  Luo L., Zhao H.*. (2021). Robust regression analysis for Clustered Interval-Censored failure time data,  Journal of Systems Science and Complexity,34:1156–1174.
 
