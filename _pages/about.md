@@ -19,7 +19,7 @@ Email: hzhao at zuel dot edu dot cn
 
 Hui Zhao received her Ph.D. in Mathematical Statistics from Peking University in 2005. She is currently a Professor and Doctoral Supervisor at Zhongnan University of Economics and Law.
 
-Her research focuses on high-dimensional data analysis, distributed learning, survival and longitudinal data analysis, and graphical models and causal inference.
+Her research focuses on high-dimensional data analysis, distributed learning, survival and longitudinal data analysis, graphical models and causal inference.
 
 ---
 
@@ -34,11 +34,11 @@ Her research focuses on high-dimensional data analysis, distributed learning, su
 
 ## Research Projects (Principal Investigator)
 
-- NSFC General Program (2026–2029): Sparse Statistical Learning for Large-Scale Survival Data  
-- NSFC General Program (2022–2025): Variable Selection for Interval-Censored Data  
-- NSFC General Program (2015–2018): Statistical Inference for Complex Interval-Censored Data  
-- NSFC Young Scientists Fund (2011–2013): Causal Inference in Randomized Trials  
-- China Postdoctoral Science Foundation (2006)
+- NSFC General Program (2026–2029): Sparse statistical learning methods for survival big data and their extensions  
+- NSFC General Program (2022–2025): Studies on variable selection and related problems based on interval-censored data  
+- NSFC General Program (2015–2018): Statistical inference for complex interval-censored data and its application
+- NSFC Young Scientists Fund (2011–2013): Causal Inference in Randomized Trials with Noncompliance Mechanisms  
+- China Postdoctoral Science Foundation (2006): Bayesian Network-Based Statistical Machine Learning Problems
 
 ---
 
