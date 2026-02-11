@@ -45,5 +45,5 @@ Her research focuses on high-dimensional data analysis, distributed learning, su
 
 ## Contact
 
-Email: hzhao@zuel.edu.cn  
+Email: hzhao at zuel dot edu dot cn
 Location: Wuhan, China
