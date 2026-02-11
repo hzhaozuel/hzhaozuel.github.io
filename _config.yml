@@ -89,7 +89,7 @@ author:
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "hzhao@zuel.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+author_links:
+  - label: "Email"
+    icon: "fas fa-envelope"
+    url: "mailto:hzhao@zuel.edu.cn"
 
 
 # Reading Files
