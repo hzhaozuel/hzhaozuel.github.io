@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hui Zhao  
-Professor & Doctoral Supervisor  
+Professor
 Zhongnan University of Economics and Law  
 
 Email: hzhao@zuel.edu.cn  
