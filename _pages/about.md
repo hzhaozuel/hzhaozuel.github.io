@@ -44,5 +44,5 @@ Her research focuses on high-dimensional data analysis, distributed learning, su
 
 ## Contact
 
-Email: hzhao at zuel dot edu dot cn
-Location: School of Statistics and Mathematics, Zhongnan University of Economics and Law, Wuhan, China
+- Email: hzhao at zuel dot edu dot cn
+- Location: School of Statistics and Mathematics, Zhongnan University of Economics and Law, Wuhan, China
