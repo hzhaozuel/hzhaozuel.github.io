@@ -10,6 +10,7 @@ author_profile: true
 - Foundations of Probability Theory
 - Mathematical Statistics
 - Multivariate Statistical Analysis
+- Time Series Analysis
 - Statistical Software and Analysis
 - Linear Algebra
 
@@ -19,7 +20,6 @@ author_profile: true
 
 - Advanced Mathematical Statistics
 - Survival Analysis and Reliability
-- Time Series Analysis
 - Linear Models
 - Nonparametric and Semiparametric Statistics
 - Modern Statistical Models
