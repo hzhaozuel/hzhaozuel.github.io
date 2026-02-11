@@ -12,7 +12,7 @@ Hui Zhao
 Professor
 Zhongnan University of Economics and Law  
 
-Email: hzhao@zuel.edu.cn  
+Email: hzhao at zuel dot edu dot cn  
 
 ---
 
