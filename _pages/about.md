@@ -10,7 +10,6 @@ redirect_from:
 
 Hui Zhao  
 Professor
-
 Zhongnan University of Economics and Law  
 Email: hzhao at zuel dot edu dot cn  
 
@@ -27,7 +26,7 @@ Her research focuses on high-dimensional data analysis, distributed learning, su
 ## Research Interests
 
 - High-Dimensional Data Analysis
-- Distributed Learning
+- Distributed Learning for large scale survival data
 - Survival and Longitudinal Data Analysis
 - Graphical Models and Causal Inference
 
@@ -46,4 +45,4 @@ Her research focuses on high-dimensional data analysis, distributed learning, su
 ## Contact
 
 Email: hzhao at zuel dot edu dot cn
-Location: Wuhan, China
+Location: School of Statistics and Mathematics, Zhongnan University of Economics and Law, Wuhan, China
