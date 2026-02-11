@@ -8,27 +8,42 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. in Statistics from School of Mathematical Sciences, Peking University in 2005 (Supervisor：Prof. Zheng, Zhongguo).
+Hui Zhao  
+Professor & Doctoral Supervisor  
+Zhongnan University of Economics and Law  
 
-Academic Positions
-======
-09/2018- now     Full Professor，School of Statistics and Mathematics，Zhongnan University of Economics and Law
+Email: hzhao@zuel.edu.cn  
 
-07/2014-08/2018  Full Professor，School of Mathematics and Statistics，Central China Normal University
+---
 
-07/2008-06/2014  Associate Professor，School of Mathematics and Statistics，Central China Normal University
+## Biography
 
-09/2016-09/2017  Senior Visiting Scholar，Department of Statistics，University of Missouri-Columbia
+Hui Zhao received her Ph.D. in Mathematical Statistics from Peking University in 2005. She is currently a Professor and Doctoral Supervisor at Zhongnan University of Economics and Law.
 
-12/2014-02/2015  Senior Visiting Scholar，Department of Applied Mathematics，Hong Kong Polytechnic University
+Her research focuses on high-dimensional data analysis, distributed learning, survival and longitudinal data analysis, and graphical models and causal inference.
 
-01/2011-02/2012  Post Doc. (Co-supervisor: Sun，Jianguo) Department of Statistics，University of Missouri-Columbia
+---
 
-04/2010-07/2010  Visiting Scholar，Institute of Applied Mathematics，Chinese Academy of Sciences
+## Research Interests
 
-07/2005-06/2007  Post Doc. (Co-supervisor：Li, Guoying； Yu，Dan)  Institute of Systems Science，Chinese Academy of Sciences 
+- High-Dimensional Data Analysis
+- Distributed Learning
+- Survival and Longitudinal Data Analysis
+- Graphical Models and Causal Inference
 
+---
 
-Research Interests
-======
-High-dimensional data analysis, Survival data analysis, Recurrent event data analysis, Causal inference, Graphical model
+## Research Projects (Principal Investigator)
+
+- NSFC General Program (2026–2029): Sparse Statistical Learning for Large-Scale Survival Data  
+- NSFC General Program (2022–2025): Variable Selection for Interval-Censored Data  
+- NSFC General Program (2015–2018): Statistical Inference for Complex Interval-Censored Data  
+- NSFC Young Scientists Fund (2011–2013): Causal Inference in Randomized Trials  
+- China Postdoctoral Science Foundation (2006)
+
+---
+
+## Contact
+
+Email: hzhao@zuel.edu.cn  
+Location: Wuhan, China
