@@ -26,8 +26,8 @@ Hui Zhao received her Ph.D. in Mathematical Statistics from Peking University in
 - Distributed Learning for large scale survival data
 - Survival and Longitudinal Data Analysis
 - Graphical Models and Causal Inference
-
-Some papers have been published in domestic and international statistical academic journals, including JASA, Biometrics, Scandinavian Journal of Statistics, Statistics in Medicine, Journal of Multivariate Analysis, Scientific China, Acta Mathematica Scientiae Applicatae, and Mathematical Statistics & Management.
+  
+  Some papers have been published in domestic and international statistical academic journals, including JASA, Biometrics, Scandinavian Journal of Statistics, Statistics in Medicine, Journal of Multivariate Analysis, Scientific China, Acta Mathematica Scientiae Applicatae, and Mathematical Statistics & Management.
 ---
 
 ## Research Projects (Principal Investigator)
