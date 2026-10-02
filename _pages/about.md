@@ -34,6 +34,7 @@ Email: hzhao at zuel dot edu dot cn
 - 
 - Some papers have been published in domestic and international statistical academic journals, including JASA, Biometrics, Scandinavian Journal of Statistics, Statistics in Medicine, Journal of Multivariate Analysis, Scientific China, Acta Mathematica Scientiae Applicatae, and Mathematical Statistics & Management.
 
+
 ---
 
 ## Research Projects (Principal Investigator)
