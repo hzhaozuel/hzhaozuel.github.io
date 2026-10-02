@@ -18,6 +18,7 @@ Email: hzhao at zuel dot edu dot cn
 ## Biography
 
 - Hui Zhao received her Ph.D. in Mathematical Statistics from Peking University in 2005. She is currently a Professor and Doctoral Supervisor at Zhongnan University of Economics and Law.
+- Some papers have been published in domestic and international statistical academic journals, including JASA, Biometrics, Scandinavian Journal of Statistics, Statistics in Medicine, Journal of Multivariate Analysis, Scientific China, Acta Mathematica Scientiae Applicatae, and Mathematical Statistics & Management.
 ---
 
 ## Research Interests
@@ -25,9 +26,7 @@ Email: hzhao at zuel dot edu dot cn
 - High-Dimensional Data Analysis
 - Distributed Learning for large scale survival data
 - Survival and Longitudinal Data Analysis
-- Graphical Models and Causal Inference
-    
-- Some papers have been published in domestic and international statistical academic journals, including JASA, Biometrics, Scandinavian Journal of Statistics, Statistics in Medicine, Journal of Multivariate Analysis, Scientific China, Acta Mathematica Scientiae Applicatae, and Mathematical Statistics & Management.
+- Graphical Models and Causal Inference 
 ---
 
 ## Research Projects (Principal Investigator)
