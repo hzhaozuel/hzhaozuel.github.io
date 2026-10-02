@@ -22,6 +22,7 @@ Email: hzhao at zuel dot edu dot cn
 - 2011/01 – 2012/02: Postdoctoral Researcher, Department of Statistics, University of Missouri, USA. 
 - 2014/12 – 2015/02: Visiting Scholar, Department of Applied Mathematics, The Hong Kong Polytechnic University.
 - 2016/09 – 2017/09: Visiting Scholar, Department of Statistics, University of Missouri, USA.
+
 ---
 
 ## Research Interests
